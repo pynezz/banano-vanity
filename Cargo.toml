@@ -12,8 +12,8 @@ license = "BSD-2-Clause"
 gpu = ["ocl", "ocl-core"]
 
 [dependencies]
-ed25519-dalek = "0.6.1"
-blake2 = "0.7.0"
+ed25519-dalek = "2.0.0"
+blake2 = "0.8.1"
 clap = "2.30.0"
 num_cpus = "1.8.0"
 num-bigint = "0.1.43"
